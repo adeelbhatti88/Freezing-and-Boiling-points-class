@@ -146,6 +146,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="freezingandboilingpoints.cpp" />
+    <ClCompile Include="Temperature.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Temperature.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
